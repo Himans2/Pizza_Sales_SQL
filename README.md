@@ -2,7 +2,12 @@
 SQL analysis exploring Pizza Sales Analysis for 2015.
 
 # Pizza Sales Analysis for 2015
-This Project mainly focuses on doing data analysis of pizza sales through SQL
+Email:himansuee0034@gmail.com
+Linkedin:https://www.linkedin.com/in/himansu-pandey-9b189023b/
+ 
+ 
+If you find this repository helpful, please consider giving it a ⭐. Thanks! ❗
+
 ## Table of Contents
 
 - [Introduction](#introduction)
